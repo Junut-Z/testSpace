@@ -1,2 +1,5 @@
 # .gitignore File
 # Create: 2026/02/02
+
+# Ignore build artifacts
+/build/
